@@ -17,6 +17,7 @@ data <- data.frame(
 # Thomas merged his data with several different other people that
 # all have been adding their data inconsistently. The data is too long
 # to correct by hand! Find a way to change it programatically!
+# Use data data set: EEE_non_standardized_names.csv (on moodle)
 
 # Tipp: search/use "Fuzzy matching".
 
