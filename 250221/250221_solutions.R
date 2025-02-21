@@ -7,6 +7,8 @@
 # the same way. Fix all entries of Thomas to make them consistent.
 
 # Use this data with inconsinstently recorded names:
+library(tidyverse)
+
 data <- data.frame(
   name = c("thomas", "Thomas", "Peter", "Peter", "THOMAS", "thoms", "thomas", "Peter", "Peter", "Tomas"),
   bin = c(10,9.7,9.9,10,10.2,10.3,9.3,9.7,10,9.85) # some random other data
